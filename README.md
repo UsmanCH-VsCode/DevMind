@@ -1,5 +1,5 @@
-# DevMind
-AI Learning + Interview Prep for Developers.
+# L-S Auth Flutter
+A complete Login / Sign-Up Auth Architecture using Riverpod, Google Sign-in, Firebase and FireStore
 
 ## Login/SignUp Built
 - Authentication flow (Login, Sign Up, Logout, Forgot Password)
